@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: xiQ Prototypes
 description: xiQ projects Prototype URLs library
-baseurl: "/Prototypes" # the subpath of your site, e.g. /blog
+baseurl: "Prototypes" # the subpath of your site, e.g. /blog
 url: "https://xiq-team.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
